@@ -1,0 +1,4 @@
+plugin: amazon.aws.aes_ec2
+regions:
+ - us-east-1
+ 
